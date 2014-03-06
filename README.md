@@ -1,3 +1,8 @@
+## Purpose of My Fork ##
+
+Try to fix the issue with HtmlUnit driver, which I encounter during work.
+Improve the web testing performance.
+
 # Clojure API for Selenium-WebDriver #
 
 This is a Clojure library for driving a web browser using Selenium-WebDriver as the backend. For more comprehensive documentation on all of clj-webdriver's features, read the [Github wiki](https://github.com/semperos/clj-webdriver/wiki). You can generate documentation locally with `lein doc` (API docs) or `lein marg` (annotated source).
@@ -126,14 +131,6 @@ Many thanks to those who have contributed so far (in nick-alphabetical order):
 See Github for an [up-to-date list of contributors](https://github.com/semperos/clj-webdriver/contributors)
 
 ## Open Source Tools ##
-
-I would like to thank the following companies for providing their tools free of charge to clj-webdriver developers as part of their contribution to the Open Source community.
-
-### JetBrains: Intellij IDEA ###
-
-When I need to do Java, Scala, or even JRuby development, I rely on Intellij IDEA's excellent support for JVM languages. I would like to thank JetBrains for granting clj-webdriver developers a free license to Intellij IDEA Ultimate, now for two years running.
-
-<a href="http://www.jetbrains.com/idea/features/javascript.html" style="display:block; background:#0d3a9e url(http://www.jetbrains.com/idea/opensource/img/all/banners/idea468x60_blue.gif) no-repeat 10px 50%; border:solid 1px #0d3a9e; margin:0;padding:0;text-decoration:none;text-indent:0;letter-spacing:-0.001em; width:466px; height:58px" alt="Java IDE with advanced HTML/CSS/JS editor for hardcore web-developers" title="Intellij IDEA: Java IDE with advanced HTML/CSS/JS editor for hardcore web-developers"><span style="margin:0 0 0 205px;padding:18px 0 2px 0; line-height:13px;font-size:11px;cursor:pointer;  background-image:none;border:0;display:block; width:255px; color: #acc4f9; font-family: trebuchet ms,arial,sans-serif;font-weight: normal;text-align:left;">Intellij IDEA: Java IDE with advanced HTML/CSS/JS editor for hardcore web-developers</span></a>
 
 ### YourKit ###
 
